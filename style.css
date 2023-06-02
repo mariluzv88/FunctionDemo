@@ -1,5 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 .navBar{
-    border: solid black;
+    /* border: solid black; */
     height: 10vh;
    display: flex;
 }
@@ -9,8 +13,9 @@
     margin: 1em;
 }
 .menu{
-    border: solid pink;
+    /* border: solid pink; */
     height: 10vh;
+    padding: 25px;
 }
 .menuButton{
     margin: 12px;
@@ -21,9 +26,9 @@
     
 }
 .drinks{
-    border: solid blue;
-    height: 40vh;
-   
+    /* border: solid blue; */
+    height: 35vh;
+    padding: 25px;
 }
 .drinkName1{
     float: left;
@@ -35,18 +40,38 @@
   padding: .5em;
 }
 .food{
-    border: solid red;
+    /* border: solid red; */
     height: 24vh;
+    padding: 25px;
+}
+.foodName{
+    float: left;
+    width: 50%;
 }
 .homeCoffee{
-    border: solid green;
-    height: 24vh;
+    /* border: solid green; */
+    height: 14vh;
+    padding: 25px;
+}
+.bean1{
+    float: left;
+    width: 50%;
 }
 .merchandise{
-    border: solid orange;
+    /* border: solid orange; */
     height: 24vh;
+    padding: 25px;
+}
+.container1{
+    float: left;
+    width: 50%;
 }
 .giftCards{
-    border: solid purple;
+    /* border: solid purple; */
     height: 24vh;
+    padding: 25px;
+}
+.card{
+float: left;
+width: 50%;
 }
