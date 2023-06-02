@@ -1,0 +1,52 @@
+.navBar{
+    border: solid black;
+    height: 10vh;
+   display: flex;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    margin: 1em;
+}
+.menu{
+    border: solid pink;
+    height: 10vh;
+}
+.menuButton{
+    margin: 12px;
+    background-color: rgb(20, 122, 76);
+    color: white;
+    border: double thick white;
+   
+    
+}
+.drinks{
+    border: solid blue;
+    height: 40vh;
+   
+}
+.drinkName1{
+    float: left;
+    width: 50%;
+    margin: 1em;
+}
+.drinkName{
+    margin: 1em;
+  padding: .5em;
+}
+.food{
+    border: solid red;
+    height: 24vh;
+}
+.homeCoffee{
+    border: solid green;
+    height: 24vh;
+}
+.merchandise{
+    border: solid orange;
+    height: 24vh;
+}
+.giftCards{
+    border: solid purple;
+    height: 24vh;
+}
